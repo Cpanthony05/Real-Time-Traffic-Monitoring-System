@@ -1,0 +1,11 @@
+10
+3 50 1 2 3 Vreme insorita, meci fotbal la stadion, pret benzina 7.5 lei/l
+3 60 0 4 5 Ploaie usoara, meci baschet, pret motorina 6.8 lei/l
+3 40 0 5 6 Vant puternic, antrenament fotbal, pret benzina 7.3 lei/l
+2 30 0 7 Cer noros, turneu tenis, pret GPL 3.5 lei/l
+2 50 1 8 Soare si vant, meci volei, pret motorina 6.9 lei/l
+3 60 1 2 9 Ploua torential, antrenament baschet, pret benzina 7.4 lei/l
+2 40 2 9 Cer senin, meci fotbal, pret GPL 3.6 lei/l
+2 30 3 8 Ploaie slaba, concurs tenis, pret benzina 7.2 lei/l
+3 50 4 7 9 Vant moderat, meci rugby, pret motorina 7.0 lei/l
+3 60 5 6 8 Cer senin, antrenament fotbal, pret GPL 3.7 lei/l
