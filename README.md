@@ -41,25 +41,12 @@ The application follows a classic Client-Server model:
     Supports interactive commands to navigate the map or report hazards.
 
 ## Protocol Commands
-Command	Action
-where_to?	
-
-Requests a list of adjacent streets from the current position.
-go_to <street>	
-
-Moves the vehicle to a connected street and updates the local speed limit.
-speed <value>	
-
-Manually updates the vehicle speed.
-incident	
-
-Reports an accident on the current street to all participants.
-extra_info	
-
-Toggles subscriptions for location-based info (weather/gas prices).
-quit	
-
-Terminates the connection.
+    Action - where_to? - Requests a list of adjacent streets from the current position.
+    go_to <street> - Moves the vehicle to a connected street and updates the local speed limit.
+    speed <value> - Manually updates the vehicle speed.
+    incident - Reports an accident on the current street to all participants.
+    extra_info - Toggles subscriptions for location-based info (weather/gas prices).
+    quit - Terminates the connection.
 ## Installation & Usage
 ### Prerequisites
 
